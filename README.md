@@ -13,7 +13,7 @@ DynamoDB và Lambda của AWS
 
 ### 2. Tạo 1 địa chỉ ElasticIP và gán nó vào máy ảo EC2 vừa tạo
 
-- Ở đây nhóm mình dùng ElasticIP là:
+- Ở đây mình dùng ElasticIP là:
 
 ### 3. Thực hiện cấu hình máy ảo
 
