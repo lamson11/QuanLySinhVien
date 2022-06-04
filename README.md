@@ -3,12 +3,6 @@
 Thực hiện tạo một webside serverless quản lý sinh viên đơn giản sử dụng dịch vụ
 DynamoDB và Lambda của AWS
 
-## Thành viên thực hiện
-
-- Trần Quốc Tuấn: 19133064
-- Trần Phát Đạt: 19133050
-- Nguyễn Lâm Sơn: 19133050
-
 ## Hướng dẫn cài đặt
 
 ### 1. Cài đặt một máy ảo EC2
