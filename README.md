@@ -49,11 +49,11 @@ DynamoDB và Lambda của AWS
 
 - Cấu hình file Dockerfile
 - Đăng nhặp Docker trên máy: docker Login
-- Tiến hành build file docker bằng lệnh: docker build -t 19133064/aws:19133064
+- Tiến hành build file docker bằng lệnh: docker build -t 19133050/aws:19133050
   -f DockerFile .
 
-- Lệnh chạy Docker: docker run 19133064/aws:19133064
-- Deploy Docker lên DockerHub: docker push 19133064/aws:191133064s
+- Lệnh chạy Docker: docker run 19133050/aws:19133050
+- Deploy Docker lên DockerHub: docker push 19133050/aws:191133050s
 
 ### 6. Chú ý
 
